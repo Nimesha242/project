@@ -1,0 +1,42 @@
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  margin: 50px;
+  text-align: center;
+  font-size: 2rem;
+  letter-spacing: 2px;
+}
+
+.box {
+  width: 400px;
+  min-height: 550px;
+  padding: 20px;
+  box-shadow: rgba(255, 255, 255, 0.8) 1.95px 1.95px 2.6px;
+  margin-top: 50px;
+  margin: 10px 40px;
+}
+
+.box h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.box img {
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.footer {
+  margin-top: 50px;
+}
+
+.box p {
+  letter-spacing: 1.2px;
+  line-height: 20px;
+  margin-bottom: 20px;
+}
